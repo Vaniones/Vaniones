@@ -9,7 +9,7 @@ I am Programmer, I make some HTML, CSS, And JS Sites.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaniones&exclude_repo=git&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Vaniones/git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaniones&exclude_repo=git&bg_color=43,4158d0,c850c0,ffcc70&title_color=fff&text_color=fff)](https://github.com/Vaniones/git)
 
 
 <!---
