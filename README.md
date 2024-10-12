@@ -1,2 +1,1 @@
-# github sucks
-it sucks ass
+# you suck dumbass
